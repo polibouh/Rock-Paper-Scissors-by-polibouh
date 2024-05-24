@@ -15,7 +15,8 @@ We solve the problem by leveraging the random module for generating the computer
 
 **Output**: The game announces the result of each round, indicating whether the player won, lost, or if the game was a draw. The results are displayed with colored text for better visibility.
 
-### Let the battle begin! ###
+### Let the battle begin! [Play here](https://replit.com/@polinabuhova/RockPaperScissorsbypolibouh) ###
+
 
 ## You can find the source code [here](rock_paper_scissors.py)
 
